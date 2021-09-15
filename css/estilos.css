@@ -1,3 +1,7 @@
+#desordenadas li{
+    background-color: red;  
+    margin-bottom: 8px;
+}
 .fondo_naranja{
     background-color: orange;
     color: white;
@@ -11,4 +15,26 @@ h2{
 
 h2{
     font-size: 16pt;
+}
+
+a:visited{
+    background-color: black;
+    color: green;
+}
+
+a:link{
+    color: yellow;
+    font-size: 16pt;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: blue;
+}
+
+th:active{
+    background-color: black;
 }
